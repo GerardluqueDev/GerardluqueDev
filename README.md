@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="200""/>
+    <h1 align="center">Hi 👋, I'm Gerard</h1>
+    <h3>I am a first-year student in the Higher Degree of Multiplatform Application Development (DAM), passionate about     the world of software development and committed to continuous learning. I consider myself a technology enthusiast       with an insatiable thirst for knowledge and a problem-solving mindset. My goal is to become a versatile and             competent professional in the field of technology, always striving to be the best at what I do. I am excited to         explore new opportunities and challenges in the world of software development.</h3>
+</div>
+### Hi 👋, I'm Gerard
 
 <!--
 **GeriMultiDev/GeriMultiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
