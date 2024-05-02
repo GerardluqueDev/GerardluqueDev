@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="200""/>
+    <iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="270" frameBorder="0" class="giphy-         embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via      GIPHY</a></p>
     <h1 align="center">Hi 👋, I'm Gerard</h1>
     <h3>I am a first-year student in the Higher Degree of Multiplatform Application Development (DAM), passionate about     the world of software development and committed to continuous learning. I consider myself a technology enthusiast       with an insatiable thirst for knowledge and a problem-solving mindset. My goal is to become a versatile and             competent professional in the field of technology, always striving to be the best at what I do. I am excited to         explore new opportunities and challenges in the world of software development.</h3>
 </div>
