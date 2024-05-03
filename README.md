@@ -18,6 +18,7 @@
 - :school: I am a student of **Multiplatform Application Development** at [Alfonso X el Sabio University](https://www.uax.com/), Madrid, Spain.
 - :trophy: Complete Course in **Ethical Hacking and Cybersecurity taken** on [Udemy](https://www.udemy.com/).
 - :trophy: **University Python Course** - From Zero to Expert Most Comprehensive taken on [Udemy](https://www.udemy.com/).
+  <!--
 - :technologist: 
 - :boom: You can visit 
 - :email:
@@ -124,7 +125,7 @@
 
 -----------
 
-
+-->
 <!--
 **GeriMultiDev/GeriMultiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
