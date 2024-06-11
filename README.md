@@ -9,8 +9,9 @@
 <!-- Texto de presentación en bloque -->
 <div>
     <h3>
-        Soy estudiante Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una fuerte pasión por la tecnología y el desarrollo de software. 
+        Soy estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una fuerte pasión por la tecnología y el desarrollo de software. 
         A lo largo de mi formación, he adquirido habilidades en diversas áreas clave, incluyendo:
+        <br><br>
         <ul>
             <li>💻 Programación: Experiencia en Java.</li>
             <li>📱 Desarrollo Móvil: Conocimiento en el desarrollo de aplicaciones para Android.</li>
@@ -19,7 +20,7 @@
             <li>🖥️ Virtualización: Uso de herramientas como VirtualBox y VMware.</li>
             <li>🔧 Control de Versiones: Manejo de Git y GitHub para la gestión de código y colaboración en proyectos.</li>
         </ul>
-        He trabajado en varios proyectos académicos y personales que me han permitido aplicar mis habilidades en entornos prácticos y reales. Algunos de estos proyectos incluyen:
+        He trabajado en varios proyectos académicos y personales que me han permitido aplicar mis habilidades en entornos prácticos y reales.
         <br><br>
         Actualmente, estoy aprendiendo desarrollo de aplicaciones para Android y mejorando continuamente mis habilidades en el uso de GitHub para la gestión de proyectos colaborativos.
         <br><br>
@@ -47,9 +48,13 @@
 
 <!-- Puntos sobre mí -->
 <div>
-    - :school: Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en la [Universidad Alfonso X el Sabio](https://www.uax.com/), Madrid, España.<br>
-    - :trophy: Completé el curso de **Hacking Ético y Ciberseguridad** en [Udemy](https://www.udemy.com/).<br>
-    - :trophy: **Curso Universitario de Python** - De Cero a Experto, el más completo, en [Udemy](https://www.udemy.com/).
+    <h3>
+        <ul>
+            <li>:school: Soy estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong> en la <a href="https://www.uax.com/">Universidad Alfonso X el Sabio</a>, Madrid, España.</li>
+            <li>:trophy: Completé el curso de <strong>Hacking Ético y Ciberseguridad</strong> en <a href="https://www.udemy.com/">Udemy</a>.</li>
+            <li>:trophy: <strong>Curso Universitario de Python</strong> - De Cero a Experto, el más completo, en <a href="https://www.udemy.com/">Udemy</a>.</li>
+        </ul>
+    </h3>
 </div>
 
 <!-- Línea horizontal (gradiente) -->
